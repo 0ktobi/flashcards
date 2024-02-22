@@ -1,0 +1,64 @@
+body {
+    background-image: url("https://i.ibb.co/nk5jHmF/bg-6-full.png");
+    text-align: center;
+}
+
+.card {
+    padding: 5px;
+    border: solid 0;
+    border-radius: 12px;
+    background-color: rgb(225, 225, 225);
+    box-shadow: 0 0 2cqb rgb(150, 150, 150), inset 0 0 5px 0 rgba(150, 150, 150, 2.5);
+    margin-bottom: 100px;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    right: 30%;
+}
+
+.solution {
+    padding: 5px;
+    border: solid 0;
+    border-radius: 12px;
+    background-color: rgb(225, 225, 225);
+    box-shadow: 0 0 2cqb rgb(150, 150, 150), inset 0 0 5px 0 rgba(150, 150, 150, 2.5);
+    margin-bottom: 100px;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    right: 30%;
+    display: none;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    font-family: Helvetica;
+}
+
+#sButton {
+    background-color: rgb(200, 200, 200);
+    box-shadow: 0 0 3cqb rgb(150, 150, 150), inset 0 0 5px 0 rgba(150, 150, 150, 0.5);
+    color: black;
+    position: absolute;
+    bottom: 20%;
+    left: 46%;
+    right: 46%;
+    border: solid 0;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#qButton {
+    background-color: rgb(200, 200, 200);
+    box-shadow: 0 0 3cqb rgb(150, 150, 150), inset 0 0 5px 0 rgba(150, 150, 150, 0.5);
+    color: black;
+    position: absolute;
+    bottom: 20%;
+    left: 46%;
+    right: 46%;
+    border: solid 0;
+    border-radius: 20px;
+    padding: 5px;
+    display: none;
+}
